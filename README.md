@@ -24,7 +24,7 @@ Analista Desenvolvedor
 
 
 - :office_worker: Atualmente ocupo um cargo de líder técnico, em uma equipe de desenvolvimento.
-- :red_heart: Techs: C#, Visual Basic, MySQL.
+- :blue_heart: Techs: C#, Visual Basic, MySQL.
 - :new: Studying new technologies: NodeJS.
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">

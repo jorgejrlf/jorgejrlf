@@ -1,4 +1,4 @@
-# :man_technologist: Thiago Almeida
+# :man_technologist: Jorge Fernandes
 
 ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagokrathos)
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-almeida-54140b128//)

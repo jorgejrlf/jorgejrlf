@@ -11,7 +11,7 @@
   </script>
  ```
 
-Tech Lead | Analista Desenvolvedor | Microsoft Certification Professional (MCP) 70-483.
+Analista Desenvolvedor
 
 **Languages and Tools:**  
 
@@ -24,8 +24,8 @@ Tech Lead | Analista Desenvolvedor | Microsoft Certification Professional (MCP) 
 
 
 - :office_worker: Atualmente ocupo um cargo de líder técnico, em uma equipe de desenvolvimento.
-- :blue_heart: Techs: Java, C#, Visual Basic, MySQL.
-- :new: Studying new technologies: ReactJS, React-Native, MongoDB e NodeJS.
+- :red_heart: Techs: C#, Visual Basic, MySQL.
+- :new: Studying new technologies: NodeJS.
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagokrathos&show_icons=true&count_private=true&theme=radical&hide=issues" />

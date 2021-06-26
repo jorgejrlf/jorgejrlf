@@ -28,10 +28,10 @@ Analista Desenvolvedor
 - :new: Studying new technologies: NodeJS.
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgejrlf&show_icons=true&count_private=true&theme=radical&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jorge Fernandes&show_icons=true&count_private=true&theme=radical&hide=issues" />
 </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgejrlf&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge Fernandes&layout=compact&theme=radical" />
 </a>
 </p>
 <!--> :octocat: 

@@ -23,15 +23,15 @@ Analista Desenvolvedor
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 
-- :office_worker: Atualmente ocupo um cargo de líder técnico, em uma equipe de desenvolvimento.
+- :office_worker: Atualmente ocupo o cargo de analista desenvolvedor, em uma equipe de sustentação.
 - :blue_heart: Techs: C#, Visual Basic, MySQL.
 - :new: Studying new technologies: NodeJS.
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagokrathos&show_icons=true&count_private=true&theme=radical&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgejrlf&show_icons=true&count_private=true&theme=radical&hide=issues" />
 </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokrathos&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgejrlf&layout=compact&theme=radical" />
 </a>
 </p>
 <!--> :octocat: 
